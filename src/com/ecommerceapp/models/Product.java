@@ -3,7 +3,7 @@ package com.ecommerceapp.models;
 import java.math.BigDecimal;
 
 /**
- * @author prashanth
+ * @author prashanth sirsagi
  * @Date 15-Jul-22
  */
 public class Product {

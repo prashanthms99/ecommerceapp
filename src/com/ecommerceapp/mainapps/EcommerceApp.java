@@ -3,7 +3,7 @@ package com.ecommerceapp.mainapps;
 import java.util.Scanner;
 
 /**
- * @author prashanth
+ * @author prashanth sirsagi
  * @Date 15-Jul-22
  */
 public class EcommerceApp {
