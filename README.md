@@ -1,2 +1,2 @@
-# ecommerceapp
-Ecommerce App Using Core JAVA
+# E-commerce app
+E-commerce App Using Core JAVA
