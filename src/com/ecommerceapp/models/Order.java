@@ -5,4 +5,8 @@ package com.ecommerceapp.models;
  * @Date 15-Jul-22
  */
 public class Order {
+
+    String orderNo;
+    Customer owner;
+
 }
